@@ -35,7 +35,7 @@ Upload an image → AI analyzes it → Creates a story → Narrates it out loud
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Arundhuti2000/Image-to-Speech-GenAI-Tool-Using-LLM.git
+git clone https://github.com/Harshithatla/ImageToStoryAI.git
 cd Image-to-Speech-GenAI-Tool-Using-LLM
 ```
 
