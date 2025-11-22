@@ -36,7 +36,7 @@ Upload an image → AI analyzes it → Creates a story → Narrates it out loud
 
 ```bash
 git clone https://github.com/Harshithatla/ImageToStoryAI.git
-cd Image-to-Speech-GenAI-Tool-Using-LLM
+cd ImageToStoryAI
 ```
 
 ### Step 2: Install Python Dependencies
